@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="..\..\..\..\Downloads\prog1.png" Link="EVIDENCIAS\prog1.png" />
+    <Content Include="..\..\..\..\Downloads\prog2.png" Link="EVIDENCIAS\prog2.png" />
+    <Content Include="..\..\..\..\Downloads\prog3.png" Link="EVIDENCIAS\prog3.png" />
+    <Content Include="..\..\..\..\Downloads\prog5.png" Link="EVIDENCIAS\prog5.png" />
+    <Content Include="..\..\..\..\Downloads\prog6.png" Link="EVIDENCIAS\prog6.png" />
+    <Content Include="..\..\..\..\Downloads\proga7.png" Link="EVIDENCIAS\proga7.png" />
+    <Content Include="..\..\..\..\Downloads\progr4.png" Link="EVIDENCIAS\progr4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="EVIDENCIAS\" />
+  </ItemGroup>
+
+</Project>
